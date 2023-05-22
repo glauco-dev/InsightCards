@@ -1,0 +1,11 @@
+{
+  "name": "insightcards",
+  "version": "1.0.0",
+  "description": "Portfolio oriented project to display my skills as fullstack developer, here the cumberstones will be sass, backend tecnologies for api as javaspring and lavarel and frontend tecnologies for front-end components and rendering like react, vue, svelte and emberjs. My goal here is stablish well documented and coded files for a rather simple logical project that stills is a useful for me, so I will have the maximium motivation, minimium stress and maxed professionalism. All this while working during day and researching the parts that I have to learn still.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
