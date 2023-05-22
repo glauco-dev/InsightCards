@@ -26,9 +26,6 @@ import { ActivatedRoute } from '@angular/router';
   
           <div class="image">
             <img src="{{card.display_image}}">
-            {{if(this.editCard)
-              <input type="text" name="" id="" >
-            }}
           </div>
         </div>
   
